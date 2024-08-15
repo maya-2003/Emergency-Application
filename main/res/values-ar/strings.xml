@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق الطوارئ</string>
+    <string name="ambulance">الاسعاف</string>
+    <string name="fire">المطافي</string>
+    <string name="police">الشرطة</string>
+</resources>
